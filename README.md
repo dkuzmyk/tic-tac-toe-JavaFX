@@ -1,2 +1,4 @@
 # tic-tac-toe-JavaFX
-Three difficulty tic tac toe written in manual JavaFX. Server supports multiple clients at once
+Client-server based game. Can be played online.
+Three difficulty tic tac toe written in manual JavaFX. 
+Server supports multiple clients at once.
